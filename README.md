@@ -32,3 +32,7 @@ Using Plotly.js the following charts was built into the dashboard.
 ## Heroku 
 
 The developed app was deployed to heroku. [Click here](https://edhw.herokuapp.com) to interect with it. 
+
+#### Copyright
+
+© 2019 realGenius, Inc.
